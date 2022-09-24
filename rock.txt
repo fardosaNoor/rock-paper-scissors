@@ -1,0 +1,33 @@
+// making rock paper scissors game in javascript.
+//i need a :
+
+1 Heading 
+2 users-choice 
+3 computerchoice
+4 result
+
+
+5 three buttons or pictors for rock paper scissors.
+
+6 reload button 
+
+
+
+//const rockBtn = document.createElement('button')
+const papperBtn  = document.createElement('button')
+const scissorsBtn  = document.createElement('button')
+rockBtn.innerHTML = 'Rock'
+papperBtn.innerHTML = 'Papper'
+scissorsBtn.innerHTML = 'Scissors'*/
+
+/*const heading = document.createElement('h1')
+const userChoice = document.createElement('p')
+const computerChoice = document.createElement('p')
+userChoice.innerHTML = 'You Chose: '
+computerChoice.innerHTML = 'Computer Chose: ' 
+ 
+
+
+ const wrapper = document.getElementById('wrapper')
+ wrapper.append(heading, userChoice, computerChoice)*/
+  
